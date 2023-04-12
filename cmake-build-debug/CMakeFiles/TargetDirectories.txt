@@ -1,0 +1,3 @@
+C:/Users/hwc/Documents/GitHub/RecycleBin-for-Linux/cmake-build-debug/CMakeFiles/RecycleBin_for_Linux.dir
+C:/Users/hwc/Documents/GitHub/RecycleBin-for-Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hwc/Documents/GitHub/RecycleBin-for-Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
